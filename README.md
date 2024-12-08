@@ -1,7 +1,4 @@
 # StopWatch-Project
-Sure! Here's a descriptive summary you can use for your stopwatch project on GitHub:
-
----
 
 ### Stopwatch Project
 
