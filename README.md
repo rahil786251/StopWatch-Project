@@ -13,7 +13,3 @@ This project is a simple, web-based stopwatch application that allows users to s
 - **HTML**: Structure of the web page.
 - **JavaScript**: Functionality for the stopwatch, including time calculations and event handling.
 
-#### Usage
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in any web browser.
-3. Click the "Start" button to begin timing. Use the "Stop" button to pause the timer.
